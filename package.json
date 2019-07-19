@@ -1,0 +1,26 @@
+{
+  "name": "broadway.com_code_challenge",
+  "version": "1.0.0",
+  "description": "challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "run_test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alec-horwitz/Broadway.com_Code_Challenge.git"
+  },
+  "keywords": [
+    "broadway.com"
+  ],
+  "author": "Alec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alec-horwitz/Broadway.com_Code_Challenge/issues"
+  },
+  "homepage": "https://github.com/alec-horwitz/Broadway.com_Code_Challenge#readme",
+  "devDependencies": {
+    "cypress": "^3.4.0"
+  }
+}
